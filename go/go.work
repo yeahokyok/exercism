@@ -15,7 +15,9 @@ use (
 	./election-day
 	./elons-toys
 	./expenses
+	./gigasecond
 	./gross-store
+	./hamming
 	./interest-is-interesting
 	./lasagna-master
 	./logs-logs-logs
