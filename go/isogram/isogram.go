@@ -7,7 +7,8 @@ import (
 
 func IsIsogram(word string) bool {
 	seen := make(map[rune]bool)
-	for _, char := range strings.ToLower(word) {
+	normalizedWord := strings.ToLower(word)
+	for _, char := range normalizedWord {
 		if !unicode.IsLetter(char) {
 			continue
 		}
