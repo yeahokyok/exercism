@@ -20,6 +20,7 @@ use (
 	./hamming
 	./interest-is-interesting
 	./lasagna-master
+	./leap
 	./logs-logs-logs
 	./meteorology
 	./need-for-speed
