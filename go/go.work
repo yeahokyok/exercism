@@ -1,3 +1,31 @@
 go 1.20
 
-use ./the-farm
+use (
+	./airport-robot
+	./animal-magic
+	./annalyns-infiltration
+	./bird-watcher
+	./blackjack
+	./booking-up-for-beauty
+	./card-tricks
+	./cars-assemble
+	./census
+	./chessboard
+	./election-day
+	./elons-toys
+	./expenses
+	./gross-store
+	./interest-is-interesting
+	./lasagna-master
+	./logs-logs-logs
+	./meteorology
+	./need-for-speed
+	./parsing-log-files
+	./party-robot
+	./sorting-room
+	./the-farm
+	./vehicle-purchase
+	./weather-forecast
+	./welcome-to-tech-palace
+
+)
