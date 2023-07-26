@@ -11,6 +11,7 @@ use (
 	./cars-assemble
 	./census
 	./chessboard
+	./collatz-conjecture
 	./election-day
 	./elons-toys
 	./expenses
