@@ -30,6 +30,7 @@ use (
 	./parsing-log-files
 	./party-robot
 	./raindrops
+	./resistor-color
 	./scrabble-score
 	./sorting-room
 	./the-farm
