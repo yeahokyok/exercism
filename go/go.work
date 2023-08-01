@@ -33,6 +33,7 @@ use (
 	./resistor-color
 	./scrabble-score
 	./sorting-room
+	./space-age
 	./the-farm
 	./two-fer
 	./vehicle-purchase
