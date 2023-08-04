@@ -4,5 +4,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Javascript
+/node_modules
+/bin/configlet
+/bin/configlet.exe
+/pnpm-lock.yaml
+/yarn.lock
+
 
 # GO
